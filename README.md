@@ -46,7 +46,14 @@ Fast fashion has significant environmental and social impacts. This project inve
 - Longitudinal analysis
 - Causal inference approaches
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python main.py
+## Visual Analysis
+
+### Production Countries
+![Production Map](Copie de Dashboard1.png)
+
+### Carbon and Water Footprint
+![Environmental Impact](Copie de Dashboard2.png.png)
+
+### Socio-Economic Indicators
+![Social Indicators](Copie de Dashboard3.png)
+
